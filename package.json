@@ -1,0 +1,31 @@
+{
+  "name": "is-valid-zip",
+  "version": "0.0.1",
+  "description": "Validate U.S. zip code",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "tape test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/miguelmota/is-valid-zip"
+  },
+  "keywords": [
+    "validate",
+    "validator",
+    "zip",
+    "postal code"
+  ],
+  "author": "Miguel Mota <hello@miguelmota.com> (http://www.miguelmota.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/miguelmota/is-valid-zip/issues"
+  },
+  "homepage": "https://github.com/miguelmota/is-valid-zip",
+  "dependencies": {
+    "tape": "^3.0.3"
+  }
+}
