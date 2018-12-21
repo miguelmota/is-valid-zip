@@ -2,13 +2,13 @@
 
 Validate U.S. zip code
 
-# Install
+## Install
 
 ```bash
 npm install is-valid-zip
 ```
 
-# Usage
+## Usage
 
 ```javascript
 var isValidZip = require('is-valid-zip');
@@ -20,6 +20,6 @@ isValidZip(11743344) // false
 isValidZip(144) // false
 ```
 
-# License
+## License
 
 MIT
