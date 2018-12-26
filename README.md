@@ -1,6 +1,6 @@
 # is-valid-zip
 
-Validate U.S. zip code
+> Validates U.S. zip code in JavaScript
 
 ## Install
 

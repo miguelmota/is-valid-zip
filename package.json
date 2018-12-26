@@ -1,7 +1,7 @@
 {
   "name": "is-valid-zip",
-  "version": "0.0.4",
-  "description": "Validate U.S. zip code",
+  "version": "0.0.5",
+  "description": "Validates U.S. zip code",
   "main": "is-valid-zip.js",
   "directories": {
     "test": "test"
